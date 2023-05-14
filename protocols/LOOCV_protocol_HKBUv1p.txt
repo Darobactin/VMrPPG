@@ -1,0 +1,1100 @@
+Round 1
+train subjects: [10, 5, 4, 11, 7]
+development subjects: [9, 12, 6, 2, 3]
+test subject: 1
+
+Round 1
+train subjects: [5, 7, 4, 6, 3]
+development subjects: [11, 10, 1, 9, 12]
+test subject: 2
+
+Round 1
+train subjects: [10, 7, 1, 4, 6]
+development subjects: [12, 2, 9, 5, 11]
+test subject: 3
+
+Round 1
+train subjects: [10, 11, 5, 1, 3]
+development subjects: [12, 2, 6, 7, 9]
+test subject: 4
+
+Round 1
+train subjects: [12, 9, 10, 4, 1]
+development subjects: [3, 6, 11, 7, 2]
+test subject: 5
+
+Round 1
+train subjects: [11, 1, 4, 3, 10]
+development subjects: [7, 12, 5, 2, 9]
+test subject: 6
+
+Round 1
+train subjects: [6, 10, 5, 12, 11]
+development subjects: [3, 9, 4, 1, 2]
+test subject: 7
+
+Round 1
+train subjects: [1, 4, 12, 7, 11]
+development subjects: [3, 2, 6, 10, 5]
+test subject: 9
+
+Round 1
+train subjects: [7, 1, 5, 11, 6]
+development subjects: [9, 12, 4, 3, 2]
+test subject: 10
+
+Round 1
+train subjects: [5, 12, 2, 9, 3]
+development subjects: [10, 7, 4, 1, 6]
+test subject: 11
+
+Round 1
+train subjects: [3, 2, 1, 5, 7]
+development subjects: [9, 10, 11, 6, 4]
+test subject: 12
+
+Round 2
+train subjects: [12, 2, 3, 9, 11]
+development subjects: [10, 7, 6, 5, 4]
+test subject: 1
+
+Round 2
+train subjects: [5, 6, 12, 3, 7]
+development subjects: [9, 1, 10, 11, 4]
+test subject: 2
+
+Round 2
+train subjects: [11, 1, 7, 4, 10]
+development subjects: [6, 5, 12, 2, 9]
+test subject: 3
+
+Round 2
+train subjects: [5, 10, 12, 1, 3]
+development subjects: [7, 9, 6, 11, 2]
+test subject: 4
+
+Round 2
+train subjects: [4, 11, 6, 2, 12]
+development subjects: [9, 7, 1, 10, 3]
+test subject: 5
+
+Round 2
+train subjects: [10, 12, 7, 1, 9]
+development subjects: [3, 2, 4, 11, 5]
+test subject: 6
+
+Round 2
+train subjects: [5, 6, 4, 11, 12]
+development subjects: [9, 3, 2, 1, 10]
+test subject: 7
+
+Round 2
+train subjects: [1, 4, 3, 6, 11]
+development subjects: [5, 7, 12, 10, 2]
+test subject: 9
+
+Round 2
+train subjects: [6, 1, 12, 2, 4]
+development subjects: [7, 9, 5, 3, 11]
+test subject: 10
+
+Round 2
+train subjects: [2, 3, 9, 1, 10]
+development subjects: [12, 4, 6, 7, 5]
+test subject: 11
+
+Round 2
+train subjects: [4, 3, 9, 10, 11]
+development subjects: [7, 5, 1, 6, 2]
+test subject: 12
+
+Round 3
+train subjects: [6, 7, 11, 10, 9]
+development subjects: [4, 12, 3, 5, 2]
+test subject: 1
+
+Round 3
+train subjects: [10, 3, 1, 12, 9]
+development subjects: [6, 7, 4, 11, 5]
+test subject: 2
+
+Round 3
+train subjects: [12, 6, 10, 4, 11]
+development subjects: [7, 1, 2, 5, 9]
+test subject: 3
+
+Round 3
+train subjects: [12, 6, 7, 9, 3]
+development subjects: [5, 11, 2, 1, 10]
+test subject: 4
+
+Round 3
+train subjects: [7, 1, 6, 3, 9]
+development subjects: [12, 2, 10, 11, 4]
+test subject: 5
+
+Round 3
+train subjects: [11, 3, 4, 9, 5]
+development subjects: [7, 1, 12, 10, 2]
+test subject: 6
+
+Round 3
+train subjects: [12, 6, 5, 1, 11]
+development subjects: [2, 4, 10, 9, 3]
+test subject: 7
+
+Round 3
+train subjects: [12, 2, 10, 6, 3]
+development subjects: [4, 11, 5, 7, 1]
+test subject: 9
+
+Round 3
+train subjects: [11, 7, 12, 6, 9]
+development subjects: [1, 2, 5, 4, 3]
+test subject: 10
+
+Round 3
+train subjects: [6, 4, 3, 10, 2]
+development subjects: [7, 5, 9, 12, 1]
+test subject: 11
+
+Round 3
+train subjects: [7, 5, 11, 1, 4]
+development subjects: [9, 6, 10, 2, 3]
+test subject: 12
+
+Round 4
+train subjects: [9, 11, 10, 4, 6]
+development subjects: [7, 5, 3, 2, 12]
+test subject: 1
+
+Round 4
+train subjects: [10, 1, 12, 9, 4]
+development subjects: [3, 11, 6, 5, 7]
+test subject: 2
+
+Round 4
+train subjects: [5, 7, 9, 4, 11]
+development subjects: [6, 12, 2, 10, 1]
+test subject: 3
+
+Round 4
+train subjects: [10, 1, 6, 9, 11]
+development subjects: [12, 3, 7, 5, 2]
+test subject: 4
+
+Round 4
+train subjects: [9, 4, 7, 12, 1]
+development subjects: [3, 10, 2, 6, 11]
+test subject: 5
+
+Round 4
+train subjects: [1, 11, 10, 9, 2]
+development subjects: [3, 7, 4, 12, 5]
+test subject: 6
+
+Round 4
+train subjects: [12, 10, 9, 11, 3]
+development subjects: [4, 6, 2, 1, 5]
+test subject: 7
+
+Round 4
+train subjects: [2, 1, 10, 7, 11]
+development subjects: [4, 6, 12, 5, 3]
+test subject: 9
+
+Round 4
+train subjects: [7, 6, 4, 11, 9]
+development subjects: [1, 5, 3, 12, 2]
+test subject: 10
+
+Round 4
+train subjects: [4, 9, 10, 2, 3]
+development subjects: [12, 7, 6, 5, 1]
+test subject: 11
+
+Round 4
+train subjects: [4, 3, 1, 9, 11]
+development subjects: [10, 5, 7, 6, 2]
+test subject: 12
+
+Round 5
+train subjects: [12, 11, 6, 3, 5]
+development subjects: [10, 7, 4, 2, 9]
+test subject: 1
+
+Round 5
+train subjects: [10, 4, 7, 6, 12]
+development subjects: [5, 11, 1, 9, 3]
+test subject: 2
+
+Round 5
+train subjects: [9, 4, 12, 10, 2]
+development subjects: [7, 1, 11, 5, 6]
+test subject: 3
+
+Round 5
+train subjects: [12, 9, 1, 3, 5]
+development subjects: [11, 10, 7, 6, 2]
+test subject: 4
+
+Round 5
+train subjects: [7, 11, 2, 4, 10]
+development subjects: [9, 1, 12, 3, 6]
+test subject: 5
+
+Round 5
+train subjects: [12, 7, 1, 3, 10]
+development subjects: [5, 4, 2, 11, 9]
+test subject: 6
+
+Round 5
+train subjects: [5, 2, 6, 9, 12]
+development subjects: [10, 3, 4, 11, 1]
+test subject: 7
+
+Round 5
+train subjects: [1, 12, 10, 7, 3]
+development subjects: [4, 6, 11, 5, 2]
+test subject: 9
+
+Round 5
+train subjects: [1, 5, 12, 2, 7]
+development subjects: [6, 9, 4, 3, 11]
+test subject: 10
+
+Round 5
+train subjects: [9, 5, 6, 4, 2]
+development subjects: [12, 3, 1, 10, 7]
+test subject: 11
+
+Round 5
+train subjects: [7, 1, 3, 4, 5]
+development subjects: [2, 6, 10, 11, 9]
+test subject: 12
+
+Round 6
+train subjects: [5, 11, 9, 10, 4]
+development subjects: [12, 2, 7, 6, 3]
+test subject: 1
+
+Round 6
+train subjects: [4, 7, 3, 9, 11]
+development subjects: [6, 10, 5, 12, 1]
+test subject: 2
+
+Round 6
+train subjects: [4, 5, 7, 6, 1]
+development subjects: [11, 2, 12, 10, 9]
+test subject: 3
+
+Round 6
+train subjects: [12, 5, 7, 9, 2]
+development subjects: [6, 1, 10, 11, 3]
+test subject: 4
+
+Round 6
+train subjects: [1, 2, 3, 12, 6]
+development subjects: [4, 9, 7, 11, 10]
+test subject: 5
+
+Round 6
+train subjects: [7, 1, 5, 4, 9]
+development subjects: [2, 12, 11, 10, 3]
+test subject: 6
+
+Round 6
+train subjects: [1, 4, 12, 9, 11]
+development subjects: [3, 6, 2, 10, 5]
+test subject: 7
+
+Round 6
+train subjects: [5, 1, 10, 6, 4]
+development subjects: [7, 12, 3, 2, 11]
+test subject: 9
+
+Round 6
+train subjects: [12, 9, 1, 6, 4]
+development subjects: [5, 3, 11, 7, 2]
+test subject: 10
+
+Round 6
+train subjects: [3, 2, 9, 6, 4]
+development subjects: [5, 10, 1, 12, 7]
+test subject: 11
+
+Round 6
+train subjects: [3, 1, 4, 2, 9]
+development subjects: [6, 11, 10, 7, 5]
+test subject: 12
+
+Round 7
+train subjects: [3, 11, 12, 7, 4]
+development subjects: [5, 2, 10, 9, 6]
+test subject: 1
+
+Round 7
+train subjects: [11, 3, 9, 12, 7]
+development subjects: [6, 5, 1, 4, 10]
+test subject: 2
+
+Round 7
+train subjects: [6, 2, 9, 7, 5]
+development subjects: [11, 1, 12, 10, 4]
+test subject: 3
+
+Round 7
+train subjects: [6, 11, 2, 1, 10]
+development subjects: [5, 3, 9, 12, 7]
+test subject: 4
+
+Round 7
+train subjects: [9, 3, 4, 6, 12]
+development subjects: [10, 2, 7, 1, 11]
+test subject: 5
+
+Round 7
+train subjects: [7, 5, 10, 11, 12]
+development subjects: [9, 2, 3, 1, 4]
+test subject: 6
+
+Round 7
+train subjects: [3, 9, 4, 1, 12]
+development subjects: [11, 2, 6, 5, 10]
+test subject: 7
+
+Round 7
+train subjects: [12, 11, 3, 7, 4]
+development subjects: [6, 10, 5, 1, 2]
+test subject: 9
+
+Round 7
+train subjects: [9, 11, 7, 1, 5]
+development subjects: [3, 6, 12, 4, 2]
+test subject: 10
+
+Round 7
+train subjects: [4, 2, 5, 9, 1]
+development subjects: [3, 12, 7, 10, 6]
+test subject: 11
+
+Round 7
+train subjects: [11, 1, 5, 10, 4]
+development subjects: [6, 3, 7, 2, 9]
+test subject: 12
+
+Round 8
+train subjects: [7, 2, 3, 4, 12]
+development subjects: [9, 5, 10, 6, 11]
+test subject: 1
+
+Round 8
+train subjects: [4, 1, 9, 7, 11]
+development subjects: [5, 12, 10, 6, 3]
+test subject: 2
+
+Round 8
+train subjects: [1, 9, 11, 6, 12]
+development subjects: [2, 5, 4, 7, 10]
+test subject: 3
+
+Round 8
+train subjects: [9, 5, 3, 7, 10]
+development subjects: [2, 11, 1, 6, 12]
+test subject: 4
+
+Round 8
+train subjects: [2, 3, 1, 6, 9]
+development subjects: [12, 7, 4, 11, 10]
+test subject: 5
+
+Round 8
+train subjects: [1, 11, 10, 12, 3]
+development subjects: [2, 7, 9, 4, 5]
+test subject: 6
+
+Round 8
+train subjects: [1, 5, 2, 12, 4]
+development subjects: [10, 3, 6, 11, 9]
+test subject: 7
+
+Round 8
+train subjects: [10, 7, 6, 11, 5]
+development subjects: [1, 3, 12, 2, 4]
+test subject: 9
+
+Round 8
+train subjects: [12, 7, 4, 6, 3]
+development subjects: [2, 1, 11, 5, 9]
+test subject: 10
+
+Round 8
+train subjects: [2, 12, 4, 7, 6]
+development subjects: [10, 9, 3, 1, 5]
+test subject: 11
+
+Round 8
+train subjects: [11, 6, 10, 7, 4]
+development subjects: [3, 5, 1, 2, 9]
+test subject: 12
+
+Round 9
+train subjects: [7, 12, 3, 10, 11]
+development subjects: [5, 9, 6, 2, 4]
+test subject: 1
+
+Round 9
+train subjects: [9, 7, 5, 11, 10]
+development subjects: [6, 12, 4, 1, 3]
+test subject: 2
+
+Round 9
+train subjects: [1, 4, 2, 7, 10]
+development subjects: [6, 12, 5, 9, 11]
+test subject: 3
+
+Round 9
+train subjects: [2, 3, 5, 7, 1]
+development subjects: [11, 10, 6, 9, 12]
+test subject: 4
+
+Round 9
+train subjects: [7, 10, 4, 1, 12]
+development subjects: [9, 11, 3, 2, 6]
+test subject: 5
+
+Round 9
+train subjects: [7, 5, 4, 12, 2]
+development subjects: [1, 3, 11, 10, 9]
+test subject: 6
+
+Round 9
+train subjects: [9, 1, 12, 11, 5]
+development subjects: [6, 3, 4, 2, 10]
+test subject: 7
+
+Round 9
+train subjects: [7, 6, 12, 5, 1]
+development subjects: [2, 10, 3, 4, 11]
+test subject: 9
+
+Round 9
+train subjects: [7, 11, 2, 6, 3]
+development subjects: [4, 1, 9, 5, 12]
+test subject: 10
+
+Round 9
+train subjects: [10, 7, 12, 5, 3]
+development subjects: [6, 4, 1, 2, 9]
+test subject: 11
+
+Round 9
+train subjects: [6, 7, 3, 11, 2]
+development subjects: [10, 9, 5, 1, 4]
+test subject: 12
+
+Round 10
+train subjects: [12, 11, 3, 10, 2]
+development subjects: [5, 7, 9, 4, 6]
+test subject: 1
+
+Round 10
+train subjects: [1, 11, 6, 5, 4]
+development subjects: [10, 9, 3, 12, 7]
+test subject: 2
+
+Round 10
+train subjects: [11, 7, 2, 12, 4]
+development subjects: [10, 5, 1, 9, 6]
+test subject: 3
+
+Round 10
+train subjects: [2, 3, 10, 12, 5]
+development subjects: [6, 7, 1, 11, 9]
+test subject: 4
+
+Round 10
+train subjects: [3, 6, 9, 2, 1]
+development subjects: [4, 12, 10, 7, 11]
+test subject: 5
+
+Round 10
+train subjects: [4, 7, 3, 2, 12]
+development subjects: [9, 1, 11, 10, 5]
+test subject: 6
+
+Round 10
+train subjects: [3, 6, 9, 2, 10]
+development subjects: [4, 12, 1, 11, 5]
+test subject: 7
+
+Round 10
+train subjects: [1, 4, 12, 7, 5]
+development subjects: [11, 6, 10, 3, 2]
+test subject: 9
+
+Round 10
+train subjects: [7, 1, 3, 6, 11]
+development subjects: [2, 5, 12, 4, 9]
+test subject: 10
+
+Round 10
+train subjects: [4, 6, 12, 1, 9]
+development subjects: [10, 3, 7, 5, 2]
+test subject: 11
+
+Round 10
+train subjects: [1, 6, 2, 10, 7]
+development subjects: [5, 4, 3, 9, 11]
+test subject: 12
+
+Round 11
+train subjects: [4, 9, 2, 12, 6]
+development subjects: [3, 11, 5, 7, 10]
+test subject: 1
+
+Round 11
+train subjects: [4, 12, 6, 3, 9]
+development subjects: [5, 11, 10, 7, 1]
+test subject: 2
+
+Round 11
+train subjects: [6, 2, 12, 10, 5]
+development subjects: [1, 9, 7, 11, 4]
+test subject: 3
+
+Round 11
+train subjects: [5, 11, 6, 12, 2]
+development subjects: [7, 10, 9, 3, 1]
+test subject: 4
+
+Round 11
+train subjects: [1, 12, 10, 4, 6]
+development subjects: [3, 11, 2, 9, 7]
+test subject: 5
+
+Round 11
+train subjects: [4, 12, 5, 9, 3]
+development subjects: [7, 10, 2, 1, 11]
+test subject: 6
+
+Round 11
+train subjects: [5, 6, 12, 1, 3]
+development subjects: [10, 4, 11, 2, 9]
+test subject: 7
+
+Round 11
+train subjects: [12, 10, 7, 11, 2]
+development subjects: [4, 3, 6, 5, 1]
+test subject: 9
+
+Round 11
+train subjects: [7, 6, 9, 4, 5]
+development subjects: [1, 2, 11, 3, 12]
+test subject: 10
+
+Round 11
+train subjects: [5, 1, 2, 7, 10]
+development subjects: [6, 12, 4, 3, 9]
+test subject: 11
+
+Round 11
+train subjects: [7, 2, 6, 10, 11]
+development subjects: [4, 1, 3, 5, 9]
+test subject: 12
+
+Round 12
+train subjects: [4, 9, 11, 2, 7]
+development subjects: [5, 3, 12, 10, 6]
+test subject: 1
+
+Round 12
+train subjects: [9, 10, 3, 5, 1]
+development subjects: [4, 11, 6, 7, 12]
+test subject: 2
+
+Round 12
+train subjects: [6, 5, 11, 7, 2]
+development subjects: [4, 9, 10, 1, 12]
+test subject: 3
+
+Round 12
+train subjects: [5, 11, 2, 10, 9]
+development subjects: [1, 7, 3, 6, 12]
+test subject: 4
+
+Round 12
+train subjects: [2, 6, 9, 4, 11]
+development subjects: [10, 1, 3, 7, 12]
+test subject: 5
+
+Round 12
+train subjects: [1, 10, 4, 2, 12]
+development subjects: [9, 5, 7, 11, 3]
+test subject: 6
+
+Round 12
+train subjects: [11, 9, 3, 12, 10]
+development subjects: [1, 4, 2, 6, 5]
+test subject: 7
+
+Round 12
+train subjects: [10, 5, 12, 3, 1]
+development subjects: [4, 7, 2, 6, 11]
+test subject: 9
+
+Round 12
+train subjects: [2, 11, 7, 1, 3]
+development subjects: [4, 12, 5, 6, 9]
+test subject: 10
+
+Round 12
+train subjects: [7, 12, 3, 4, 10]
+development subjects: [2, 5, 6, 1, 9]
+test subject: 11
+
+Round 12
+train subjects: [10, 5, 6, 4, 9]
+development subjects: [11, 1, 3, 2, 7]
+test subject: 12
+
+Round 13
+train subjects: [3, 2, 6, 7, 10]
+development subjects: [9, 12, 4, 11, 5]
+test subject: 1
+
+Round 13
+train subjects: [7, 11, 12, 1, 4]
+development subjects: [5, 6, 10, 3, 9]
+test subject: 2
+
+Round 13
+train subjects: [6, 9, 12, 7, 1]
+development subjects: [4, 2, 11, 10, 5]
+test subject: 3
+
+Round 13
+train subjects: [11, 10, 3, 7, 5]
+development subjects: [12, 2, 6, 9, 1]
+test subject: 4
+
+Round 13
+train subjects: [4, 10, 7, 6, 2]
+development subjects: [3, 9, 11, 1, 12]
+test subject: 5
+
+Round 13
+train subjects: [9, 10, 1, 3, 7]
+development subjects: [12, 5, 4, 11, 2]
+test subject: 6
+
+Round 13
+train subjects: [9, 4, 6, 1, 2]
+development subjects: [10, 12, 11, 3, 5]
+test subject: 7
+
+Round 13
+train subjects: [10, 4, 11, 12, 5]
+development subjects: [2, 7, 6, 1, 3]
+test subject: 9
+
+Round 13
+train subjects: [2, 7, 9, 11, 12]
+development subjects: [4, 6, 3, 1, 5]
+test subject: 10
+
+Round 13
+train subjects: [2, 10, 3, 4, 1]
+development subjects: [7, 5, 6, 12, 9]
+test subject: 11
+
+Round 13
+train subjects: [7, 3, 2, 9, 10]
+development subjects: [6, 4, 5, 1, 11]
+test subject: 12
+
+Round 14
+train subjects: [4, 12, 11, 6, 2]
+development subjects: [5, 7, 10, 3, 9]
+test subject: 1
+
+Round 14
+train subjects: [1, 5, 12, 11, 9]
+development subjects: [7, 10, 6, 4, 3]
+test subject: 2
+
+Round 14
+train subjects: [6, 4, 5, 2, 12]
+development subjects: [7, 1, 9, 11, 10]
+test subject: 3
+
+Round 14
+train subjects: [2, 1, 3, 6, 10]
+development subjects: [12, 11, 7, 9, 5]
+test subject: 4
+
+Round 14
+train subjects: [1, 4, 6, 2, 11]
+development subjects: [3, 10, 12, 9, 7]
+test subject: 5
+
+Round 14
+train subjects: [10, 7, 5, 3, 9]
+development subjects: [4, 1, 11, 12, 2]
+test subject: 6
+
+Round 14
+train subjects: [9, 2, 5, 3, 4]
+development subjects: [1, 10, 6, 11, 12]
+test subject: 7
+
+Round 14
+train subjects: [7, 4, 6, 2, 10]
+development subjects: [12, 3, 11, 5, 1]
+test subject: 9
+
+Round 14
+train subjects: [9, 12, 11, 1, 3]
+development subjects: [5, 7, 6, 2, 4]
+test subject: 10
+
+Round 14
+train subjects: [12, 2, 4, 9, 3]
+development subjects: [6, 5, 1, 10, 7]
+test subject: 11
+
+Round 14
+train subjects: [11, 3, 7, 4, 9]
+development subjects: [2, 1, 10, 6, 5]
+test subject: 12
+
+Round 15
+train subjects: [6, 11, 12, 4, 7]
+development subjects: [9, 10, 5, 3, 2]
+test subject: 1
+
+Round 15
+train subjects: [12, 5, 4, 9, 11]
+development subjects: [10, 1, 3, 7, 6]
+test subject: 2
+
+Round 15
+train subjects: [4, 1, 2, 7, 11]
+development subjects: [12, 5, 9, 10, 6]
+test subject: 3
+
+Round 15
+train subjects: [10, 12, 6, 9, 3]
+development subjects: [1, 5, 7, 2, 11]
+test subject: 4
+
+Round 15
+train subjects: [3, 10, 11, 2, 7]
+development subjects: [12, 6, 9, 4, 1]
+test subject: 5
+
+Round 15
+train subjects: [10, 2, 9, 4, 7]
+development subjects: [1, 12, 11, 5, 3]
+test subject: 6
+
+Round 15
+train subjects: [4, 10, 1, 11, 2]
+development subjects: [6, 5, 9, 12, 3]
+test subject: 7
+
+Round 15
+train subjects: [6, 2, 5, 11, 3]
+development subjects: [10, 4, 12, 7, 1]
+test subject: 9
+
+Round 15
+train subjects: [6, 12, 11, 9, 3]
+development subjects: [1, 4, 2, 5, 7]
+test subject: 10
+
+Round 15
+train subjects: [12, 5, 3, 4, 10]
+development subjects: [1, 9, 7, 2, 6]
+test subject: 11
+
+Round 15
+train subjects: [5, 1, 4, 11, 6]
+development subjects: [3, 9, 7, 2, 10]
+test subject: 12
+
+Round 16
+train subjects: [5, 2, 7, 4, 10]
+development subjects: [9, 6, 12, 11, 3]
+test subject: 1
+
+Round 16
+train subjects: [12, 1, 9, 6, 7]
+development subjects: [11, 10, 4, 3, 5]
+test subject: 2
+
+Round 16
+train subjects: [1, 2, 12, 5, 7]
+development subjects: [6, 9, 11, 10, 4]
+test subject: 3
+
+Round 16
+train subjects: [6, 9, 2, 11, 12]
+development subjects: [5, 1, 10, 3, 7]
+test subject: 4
+
+Round 16
+train subjects: [9, 10, 6, 1, 12]
+development subjects: [4, 3, 2, 11, 7]
+test subject: 5
+
+Round 16
+train subjects: [3, 1, 10, 4, 7]
+development subjects: [9, 12, 11, 2, 5]
+test subject: 6
+
+Round 16
+train subjects: [3, 12, 1, 2, 9]
+development subjects: [11, 5, 6, 4, 10]
+test subject: 7
+
+Round 16
+train subjects: [3, 7, 4, 1, 10]
+development subjects: [11, 5, 12, 6, 2]
+test subject: 9
+
+Round 16
+train subjects: [1, 5, 2, 4, 6]
+development subjects: [7, 12, 3, 11, 9]
+test subject: 10
+
+Round 16
+train subjects: [5, 9, 2, 4, 7]
+development subjects: [3, 10, 6, 1, 12]
+test subject: 11
+
+Round 16
+train subjects: [7, 4, 9, 10, 2]
+development subjects: [5, 1, 6, 3, 11]
+test subject: 12
+
+Round 17
+train subjects: [7, 2, 9, 11, 12]
+development subjects: [5, 10, 6, 3, 4]
+test subject: 1
+
+Round 17
+train subjects: [6, 5, 12, 3, 10]
+development subjects: [4, 1, 7, 11, 9]
+test subject: 2
+
+Round 17
+train subjects: [7, 12, 6, 4, 1]
+development subjects: [9, 2, 11, 5, 10]
+test subject: 3
+
+Round 17
+train subjects: [1, 5, 11, 6, 12]
+development subjects: [10, 2, 9, 3, 7]
+test subject: 4
+
+Round 17
+train subjects: [12, 6, 3, 4, 2]
+development subjects: [11, 10, 7, 9, 1]
+test subject: 5
+
+Round 17
+train subjects: [1, 5, 7, 9, 2]
+development subjects: [12, 3, 11, 4, 10]
+test subject: 6
+
+Round 17
+train subjects: [6, 3, 1, 2, 4]
+development subjects: [12, 11, 9, 5, 10]
+test subject: 7
+
+Round 17
+train subjects: [2, 4, 6, 11, 12]
+development subjects: [3, 7, 10, 1, 5]
+test subject: 9
+
+Round 17
+train subjects: [7, 1, 6, 11, 12]
+development subjects: [4, 9, 3, 2, 5]
+test subject: 10
+
+Round 17
+train subjects: [5, 2, 3, 10, 7]
+development subjects: [12, 1, 6, 9, 4]
+test subject: 11
+
+Round 17
+train subjects: [11, 6, 5, 10, 1]
+development subjects: [9, 3, 2, 7, 4]
+test subject: 12
+
+Round 18
+train subjects: [9, 10, 6, 7, 3]
+development subjects: [5, 11, 2, 12, 4]
+test subject: 1
+
+Round 18
+train subjects: [4, 7, 11, 5, 10]
+development subjects: [9, 12, 6, 1, 3]
+test subject: 2
+
+Round 18
+train subjects: [7, 4, 9, 11, 12]
+development subjects: [10, 1, 2, 6, 5]
+test subject: 3
+
+Round 18
+train subjects: [5, 12, 3, 2, 9]
+development subjects: [6, 7, 1, 11, 10]
+test subject: 4
+
+Round 18
+train subjects: [11, 7, 10, 4, 2]
+development subjects: [3, 12, 1, 9, 6]
+test subject: 5
+
+Round 18
+train subjects: [4, 3, 10, 1, 12]
+development subjects: [9, 5, 2, 7, 11]
+test subject: 6
+
+Round 18
+train subjects: [4, 2, 5, 11, 12]
+development subjects: [10, 3, 6, 9, 1]
+test subject: 7
+
+Round 18
+train subjects: [7, 10, 12, 5, 3]
+development subjects: [1, 11, 6, 2, 4]
+test subject: 9
+
+Round 18
+train subjects: [11, 6, 5, 4, 1]
+development subjects: [2, 7, 3, 12, 9]
+test subject: 10
+
+Round 18
+train subjects: [7, 2, 5, 9, 6]
+development subjects: [3, 10, 12, 1, 4]
+test subject: 11
+
+Round 18
+train subjects: [9, 11, 2, 6, 10]
+development subjects: [7, 3, 4, 1, 5]
+test subject: 12
+
+Round 19
+train subjects: [6, 3, 2, 4, 10]
+development subjects: [5, 12, 11, 9, 7]
+test subject: 1
+
+Round 19
+train subjects: [4, 12, 3, 11, 5]
+development subjects: [1, 9, 6, 7, 10]
+test subject: 2
+
+Round 19
+train subjects: [10, 5, 2, 12, 4]
+development subjects: [9, 1, 7, 6, 11]
+test subject: 3
+
+Round 19
+train subjects: [6, 2, 1, 11, 10]
+development subjects: [5, 7, 3, 9, 12]
+test subject: 4
+
+Round 19
+train subjects: [3, 10, 2, 4, 11]
+development subjects: [1, 7, 6, 9, 12]
+test subject: 5
+
+Round 19
+train subjects: [5, 4, 11, 7, 9]
+development subjects: [2, 12, 10, 3, 1]
+test subject: 6
+
+Round 19
+train subjects: [10, 11, 12, 3, 4]
+development subjects: [2, 5, 1, 9, 6]
+test subject: 7
+
+Round 19
+train subjects: [7, 5, 1, 12, 10]
+development subjects: [11, 4, 6, 3, 2]
+test subject: 9
+
+Round 19
+train subjects: [6, 2, 4, 11, 12]
+development subjects: [1, 5, 7, 9, 3]
+test subject: 10
+
+Round 19
+train subjects: [3, 12, 10, 6, 7]
+development subjects: [1, 2, 9, 5, 4]
+test subject: 11
+
+Round 19
+train subjects: [4, 5, 10, 7, 1]
+development subjects: [3, 11, 6, 2, 9]
+test subject: 12
+
+Round 20
+train subjects: [12, 9, 10, 6, 11]
+development subjects: [3, 2, 5, 7, 4]
+test subject: 1
+
+Round 20
+train subjects: [4, 10, 9, 1, 3]
+development subjects: [6, 5, 12, 11, 7]
+test subject: 2
+
+Round 20
+train subjects: [4, 2, 7, 1, 6]
+development subjects: [5, 11, 12, 10, 9]
+test subject: 3
+
+Round 20
+train subjects: [5, 1, 9, 12, 3]
+development subjects: [6, 7, 11, 10, 2]
+test subject: 4
+
+Round 20
+train subjects: [12, 7, 4, 2, 6]
+development subjects: [10, 11, 1, 9, 3]
+test subject: 5
+
+Round 20
+train subjects: [11, 10, 2, 1, 9]
+development subjects: [5, 12, 4, 7, 3]
+test subject: 6
+
+Round 20
+train subjects: [2, 4, 9, 1, 12]
+development subjects: [10, 6, 3, 5, 11]
+test subject: 7
+
+Round 20
+train subjects: [2, 1, 4, 10, 7]
+development subjects: [5, 6, 11, 3, 12]
+test subject: 9
+
+Round 20
+train subjects: [9, 4, 7, 11, 3]
+development subjects: [5, 6, 12, 2, 1]
+test subject: 10
+
+Round 20
+train subjects: [4, 10, 2, 7, 3]
+development subjects: [5, 6, 9, 1, 12]
+test subject: 11
+
+Round 20
+train subjects: [10, 3, 4, 2, 11]
+development subjects: [6, 1, 9, 5, 7]
+test subject: 12
+
