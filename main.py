@@ -35,6 +35,7 @@ if __name__ == "__main__":
     lr_orig = 0.1
     batch_size = 200
     epoches = 16
+    DEV_BATCH_SIZE = 91
     TEST_BATCH_SIZE = 10
     train_mode = "STN"
     start_round = 1
@@ -161,7 +162,7 @@ if __name__ == "__main__":
             developmentset = MyDataset(np.concatenate((development_data_positive, development_data_negative)),
                                        development_labels)
             developmentloader = torch.utils.data.DataLoader(
-                developmentset, batch_size=TEST_BATCH_SIZE, shuffle=False, num_workers=num_workers)
+                developmentset, batch_size=DEV_BATCH_SIZE, shuffle=False, num_workers=num_workers)
             testset = MyDataset(np.concatenate((test_data_positive, test_data_negative)), test_labels)
             testloader = torch.utils.data.DataLoader(testset, batch_size=TEST_BATCH_SIZE, shuffle=False,
                                                      num_workers=num_workers)
@@ -270,9 +271,9 @@ if __name__ == "__main__":
                     threshold_idx = int(1.0 * ratio * len(ordered_confidences) / Num_thresholds)
                     thresholds.append(ordered_confidences[threshold_idx])
                 
-                num_batches = len(ordered_confidences) // TEST_BATCH_SIZE
-                confidence_rates = np.resize(y_pred, (num_batches, TEST_BATCH_SIZE))
-                labels = np.resize(y_true, (num_batches, TEST_BATCH_SIZE))
+                num_batches = len(ordered_confidences) // DEV_BATCH_SIZE
+                confidence_rates = np.resize(y_pred, (num_batches, DEV_BATCH_SIZE))
+                labels = np.resize(y_true, (num_batches, DEV_BATCH_SIZE))
 
                 for batch_idx in range(num_batches):
                     confidences = confidence_rates[batch_idx]
@@ -280,7 +281,7 @@ if __name__ == "__main__":
                     for ite in range(Num_thresholds):
                         threshold = thresholds[ite]
                         local_TP, local_FP, local_FN, local_TN = 0, 0, 0, 0
-                        for i in range(TEST_BATCH_SIZE):
+                        for i in range(DEV_BATCH_SIZE):
                             if confidences[i] > threshold and ground_truth[i] == 1:
                                 local_TP += 1
                                 TP[ite] += 1
